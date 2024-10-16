@@ -1,0 +1,61 @@
+[
+  {
+    "Server side": [
+      "Root access and knowledge of when and how to use it",
+      "Server lights and beeps and what they mean",
+      "Management port",
+      "VMs (ESXi, Proxmox, Hyper-V, Nutanix, vSphere)",
+      "Bare metal (using putty, converting a PPK to use on MAC)",
+      "How to update from 1.8.2.0 and earlier"
+    ]
+  },
+
+  {
+    "EPIC": [
+      "EPIC as a whole",
+      "EPIC events",
+      "EPIC logs",
+      "SIP integrations",
+      "SIP troubleshooting (Asterisk log, web CLI)",
+      "Fire alarm integration / Fire alarm Mute",
+      "3rd Party integrations, relays, contact closures, streaming",
+      "ITC via EPIC, understand serial commands and how they are used with an ITC.",
+      "Volumes and where to find all of them",
+      "LDAP",
+      "SSL Certs ",
+      "SSO",
+      "API’s",
+      "Viewpath as a whole with access to Licencing and Central Management and know how to use them properly.",
+      "How Networks are utilized with EPIC and how to prove that network is the issue. ",
+      "Infoview software side how to do adoption mode and how to clear tokens",
+      "Door sensors EPIC side",
+      "CSV upload"
+    ]
+  },
+
+  {
+    "Devices": [
+      "Both strobes ALGO and AEstrobe and associated configurations.",
+      "Kiosk and all of its settings, how to re image, and how to go from clock to kiosk.",
+      "MS/CA devices, pin outs, channels, and response parameters.  ",
+      "Cameras and why Upload or download failure happen",
+      "Zone amps, JBL, Crown, TOA.",
+      "NVR",
+      "ITC surfaces and ITCs",
+      "Wall plates",
+      "All Clocks AEclock, Infoview Adapter, and AND clocks",
+      "Door sensors wiring side",
+      "Barionet 100 Devices",
+      "Claudia",
+      "Grandstream"
+    ]
+  },
+
+  {
+    "General Knowledge": [
+      "How to send files to customer through one drive or another cloud tool",
+      "Computer NIC manual configuration (MAC, Windows)",
+      "Networking basics"
+    ]
+  }
+]
