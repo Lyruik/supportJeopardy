@@ -23,6 +23,11 @@ const bigProblem = {
       desc: "onclick? Link? decide how logic STARTS, also user feedback, cursor",
       status: 1,
     },
+    screenModal: {
+      desc: "what do I want the question to look like? or rather the board it's on. Do I want a modal? or just screen wholesale changes?",
+      status: 0,
+      note: "currently want to do modal I think, nearly full screen. Should design it before making it hidden/transitional stuff",
+    },
     transition: {
       desc: "spinny card? fade in? expand? probably expand. modal with fade?",
       status: 0,
